@@ -1,0 +1,29 @@
+header img{
+    border-radius: 10px;
+    object-fit:fill;
+    width: 100%;
+    height: 300px;
+    position: top;
+}
+
+.marq{
+    font-size: 25px;
+    background: linear-gradient(to right,
+                    red,
+                    indigo,
+                    green,
+                    yellow,
+                    orange,
+                    red);
+                    -webkit-background-clip: text;
+                    color:transparent;
+}
+
+main img{
+    border-radius: 10px;
+}
+
+main h3{
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
